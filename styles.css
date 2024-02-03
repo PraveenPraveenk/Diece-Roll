@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #7c0bb9;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #e3dcdc;
+  font-size: 8rem;
+  color: #24977a;
+}
+
+p {
+  font-size: 2rem;
+  color: #e4e4e9;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #f3ecec;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
